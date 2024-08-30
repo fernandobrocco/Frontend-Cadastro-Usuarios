@@ -33,6 +33,7 @@ Para rodar o projeto, siga os passos abaixo:
 O aplicativo estará disponível no endereço http://localhost:3000.
 
 📂 Estrutura do Projeto
+```
 Frontend-Cadastro-Usuarios/
 ├── src/
 │   ├── components/       # Componentes reutilizáveis
@@ -44,3 +45,4 @@ Frontend-Cadastro-Usuarios/
 ├── public/               # Arquivos públicos
 ├── package.json          # Dependências e scripts
 └── README.md             # Documentação do projeto
+```
